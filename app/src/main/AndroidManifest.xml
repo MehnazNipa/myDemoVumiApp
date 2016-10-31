@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mirmhrakib.mydemoapplication" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CozListReportActivity"
+            android:label="@string/menuText5"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+        </activity>
+        <activity
+            android:name=".ClassBaseReportActivity"
+            android:label="@string/menuText1" >
+        </activity>
+        <activity
+            android:name=".SituationBaseReportActivity"
+            android:label="@string/menuText2" >
+        </activity>
+        <activity
+            android:name=".TypeBaseReportActivity"
+            android:label="@string/menuText3" >
+        </activity>
+        <activity
+            android:name=".AreaBasedReportActivity"
+            android:label="@string/menuText4" >
+        </activity>
+        <activity
+            android:name=".YearlyAppealReportActivity"
+            android:label="@string/menuText6" >
+        </activity>
+        <activity
+            android:name=".ContactActivity"
+            android:label="@string/menuText7" >
+        </activity>
+        <activity android:name=".AboutUsActivity"
+            android:label="@string/menuText8">
+        </activity>
+
+        <activity android:name=".CozListReportActivity2"
+            android:label="@string/menuText5">
+        </activity>
+    </application>
+
+</manifest>

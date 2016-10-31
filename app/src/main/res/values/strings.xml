@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ভূমি আপীল বোর্ড</string>
+    <string name="list_activity">ভূমি সংক্রান্ত তথ্যসমূহ </string>
+    <string name="select_date_range">তারিখ নির্বাচন করুন</string>
+    <string name="title_activity_info_list">InfoListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menuText1">মামলার শ্রেনি/ধরন ভিত্তিক রিপোর্ট</string>
+    <string name="menuText2">মামলার অবস্থা ভিত্তিক অনুসন্ধান</string>
+    <string name="menuText3">মামলার প্রকৃতি ভিত্তিক রিপোর্ট</string>
+    <string name="menuText4">অঞ্চল ভিত্তিক রিপোর্ট</string>
+    <string name="menuText5">কজলিস্ট রিপোর্ট</string>
+    <string name="menuText6">বাৎসরিক মামলার নিষ্পত্তি/দায়ের রিপোর্ট</string>
+    <string name="menuText7">যোগাযোগ</string>
+    <string name="title_activity_class_base_report">ClassBaseReportActivity</string>
+    <string name="title_activity_situation_base_report">SituationBaseReportActivity</string>
+    <string name="title_activity_type_base_report">TypeBaseReportActivity</string>
+    <string name="title_activity_area_based_report">AreaBasedReportActivity</string>
+    <string name="title_activity_yearly_appeal_report">YearlyAppealReportActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="menuText8">আমাদের সম্পর্কে</string>
+    <string name="title_activity_coz_list_report">CozListReportActivity</string>
+</resources>
